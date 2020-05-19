@@ -8,7 +8,7 @@ from reportlab.lib import colors
 from reportlab.lib.units import cm
 from Bio.Graphics import GenomeDiagram
 
-Entrez.email = "woshiyangtianxi@126.com"
+Entrez.email = "example@example.com"
 input = 'data.csv'
 output = 'phage.pdf'
 CLASS1=['NC_005856.1','NC_000866.4','NC_005859.1']
