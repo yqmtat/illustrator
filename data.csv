@@ -1,0 +1,132 @@
+query id,subject id,BREAKPOINTS,
+"NC_005856.1 Enterobacteria phage P1, complete genome","LT960609.1 Escherichia phage SECphi18 genome assembly, complete genome: monopartite",24281-24297,40908-40924
+"NC_005856.1 Enterobacteria phage P1, complete genome","LT960609.1 Escherichia phage SECphi18 genome assembly, complete genome: monopartite",50106-50122,14293-14309
+"NC_005856.1 Enterobacteria phage P1, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",22388-22402,65244-65258
+"NC_005856.1 Enterobacteria phage P1, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",25315-25329,100334-100348
+"NC_005856.1 Enterobacteria phage P1, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",29001-29015,43717-43731
+"NC_005856.1 Enterobacteria phage P1, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",36558-36572,95083-95097
+"NC_005856.1 Enterobacteria phage P1, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",43363-43380,100556-100573
+"NC_005856.1 Enterobacteria phage P1, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",59241-59258,43669-43686
+"NC_005856.1 Enterobacteria phage P1, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",86817-86831,78299-78313
+"NC_005856.1 Enterobacteria phage P1, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",89349-89367,48713-48731
+"NC_005856.1 Enterobacteria phage P1, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",91895-91909,68735-68749
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",18606-18620,99752-99766
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",69404-69419,99264-99279
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",105567-105581,97796-97810
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",67426-67440,93031-93045
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",65832-65846,92119-92133
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",71889-71904,91592-91607
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",60064-60078,89781-89795
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",18856-18871,88605-88620
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",74903-74918,81402-81417
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",156374-156388,81269-81283
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",73459-73475,79077-79093
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",120385-120399,78198-78212
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",159625-159640,76780-76795
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",116233-116250,75778-75795
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",125435-125449,74853-74867
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",152047-152061,73908-73922
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",116861-116875,71948-71962
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",156143-156158,71798-71813
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",61136-61151,70179-70194
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",164821-164835,70091-70105
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",67262-67276,67907-67921
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",98203-98217,60153-60167
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",17505-17519,58983-58997
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",21112-21127,57751-57766
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",97061-97076,57526-57541
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",67035-67049,56792-56806
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",49609-49623,53834-53848
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",168674-168688,53469-53483
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",23871-23886,52493-52508
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",54213-54227,51993-52007
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",51674-51688,50399-50413
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",73598-73612,48842-48856
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",143438-143452,47201-47215
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",17926-17940,46545-46559
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",157818-157833,44676-44691
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",54835-54851,43033-43049
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",106983-106997,37050-37064
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",82718-82733,36745-36760
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",162514-162528,33415-33429
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",72467-72481,32524-32538
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",63723-63744,27822-27843
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",41571-41585,27027-27041
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",55960-55977,23692-23709
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",36406-36420,23398-23412
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",163940-163954,21731-21745
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",128141-128155,21665-21679
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",40803-40817,19161-19175
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",57427-57442,18315-18330
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",78214-78229,17705-17720
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",23469-23483,16126-16140
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",109435-109449,13455-13469
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",163339-163353,12493-12507
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",165288-165303,108946-108961
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",58045-58059,108076-108090
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",131470-131484,106368-106382
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",129480-129494,10636-10650
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",24580-24594,104454-104468
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",35620-35634,103035-103049
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",63350-63364,102281-102295
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",140475-140489,102102-102116
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",69581-69595,102030-102044
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",27696-27710,101779-101793
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",52556-52570,100571-100585
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005859.1 Enterobacteria phage T5, complete genome",117395-117409,100047-100061
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005856.1 Enterobacteria phage P1, complete genome",138364-138378,36157-36171
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005856.1 Enterobacteria phage P1, complete genome",37328-37342,5232-5246
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005856.1 Enterobacteria phage P1, complete genome",44798-44813,53164-53179
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005856.1 Enterobacteria phage P1, complete genome",70617-70631,46911-46925
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005856.1 Enterobacteria phage P1, complete genome",152938-152953,4080-4095
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005856.1 Enterobacteria phage P1, complete genome",143223-143237,33064-33078
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005856.1 Enterobacteria phage P1, complete genome",109734-109748,38663-38677
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005856.1 Enterobacteria phage P1, complete genome",55883-55897,20919-20933
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005856.1 Enterobacteria phage P1, complete genome",59965-59979,7168-7182
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005856.1 Enterobacteria phage P1, complete genome",62843-62857,16242-16256
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005856.1 Enterobacteria phage P1, complete genome",127120-127134,47351-47365
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005856.1 Enterobacteria phage P1, complete genome",118197-118212,2645-2660
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005856.1 Enterobacteria phage P1, complete genome",94774-94788,24064-24078
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005856.1 Enterobacteria phage P1, complete genome",3505-3519,62490-62504
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005856.1 Enterobacteria phage P1, complete genome",3216-3230,9987-10001
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005856.1 Enterobacteria phage P1, complete genome",134896-134910,7040-7054
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005856.1 Enterobacteria phage P1, complete genome",7681-7695,77036-77050
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005856.1 Enterobacteria phage P1, complete genome",10212-10226,44844-44858
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005856.1 Enterobacteria phage P1, complete genome",18084-18098,61002-61016
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005856.1 Enterobacteria phage P1, complete genome",136419-136433,21964-21978
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005856.1 Enterobacteria phage P1, complete genome",64749-64763,55691-55705
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005856.1 Enterobacteria phage P1, complete genome",12391-12405,56626-56640
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005856.1 Enterobacteria phage P1, complete genome",15319-15334,35167-35182
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005856.1 Enterobacteria phage P1, complete genome",16474-16488,74763-74777
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005856.1 Enterobacteria phage P1, complete genome",82450-82464,59574-59588
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005856.1 Enterobacteria phage P1, complete genome",45361-45375,7701-7715
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005856.1 Enterobacteria phage P1, complete genome",124504-124518,23715-23729
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005856.1 Enterobacteria phage P1, complete genome",134230-134245,47752-47767
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_005856.1 Enterobacteria phage P1, complete genome",34192-34193,61259-61260
+"NC_005856.1 Enterobacteria phage P1, complete genome","NC_001604.1 Enterobacteria phage T7, complete genome",1729-1744,19125-19140
+"NC_005856.1 Enterobacteria phage P1, complete genome","NC_001604.1 Enterobacteria phage T7, complete genome",1885-1899,24856-24870
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_001604.1 Enterobacteria phage T7, complete genome",68759-68773,444-458
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_001604.1 Enterobacteria phage T7, complete genome",115814-115828,8715-8729
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_001604.1 Enterobacteria phage T7, complete genome",27820-27834,35161-35175
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_001604.1 Enterobacteria phage T7, complete genome",66957-66973,15914-15930
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_001604.1 Enterobacteria phage T7, complete genome",96651-96665,30429-30443
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_001604.1 Enterobacteria phage T7, complete genome",113163-113177,38412-38426
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_001604.1 Enterobacteria phage T7, complete genome",123510-123524,22328-22342
+"NC_000866.4 Enterobacteria phage T4, complete genome","NC_001604.1 Enterobacteria phage T7, complete genome",145918-145932,29394-29408
+"NC_005859.1 Enterobacteria phage T5, complete genome","NC_001604.1 Enterobacteria phage T7, complete genome",77214-77228,24304-24318
+"NC_005859.1 Enterobacteria phage T5, complete genome","LT960609.1 Escherichia phage SECphi18 genome assembly, complete genome: monopartite",92372-92386,31192-31206
+"NC_005859.1 Enterobacteria phage T5, complete genome","LT960609.1 Escherichia phage SECphi18 genome assembly, complete genome: monopartite",102170-102185,33121-33136
+"NC_005859.1 Enterobacteria phage T5, complete genome","LT960609.1 Escherichia phage SECphi18 genome assembly, complete genome: monopartite",107467-107481,33552-33566
+"NC_005859.1 Enterobacteria phage T5, complete genome","LT960609.1 Escherichia phage SECphi18 genome assembly, complete genome: monopartite",71322-71336,6733-6747
+"NC_005859.1 Enterobacteria phage T5, complete genome","LT960609.1 Escherichia phage SECphi18 genome assembly, complete genome: monopartite",76782-76802,28473-28493
+"LT960607.1 Escherichia phage SECphi17 genome assembly, complete genome: monopartite","NC_005859.1 Enterobacteria phage T5, complete genome",3625-3639,68274-68288
+"LT960607.1 Escherichia phage SECphi17 genome assembly, complete genome: monopartite","LT960609.1 Escherichia phage SECphi18 genome assembly, complete genome: monopartite",2180-2192,28474-28486
+"LT960609.1 Escherichia phage SECphi17 genome assembly, complete genome: monopartite","NC_005856.1 Enterobacteria phage P1, complete genome",2005-2020,17400-17415
+"LT960609.1 Escherichia phage SECphi17 genome assembly, complete genome: monopartite","NC_005856.1 Enterobacteria phage P1, complete genome",3257-3271,28953-28967
+"LT960609.1 Escherichia phage SECphi17 genome assembly, complete genome: monopartite","NC_005856.1 Enterobacteria phage P1, complete genome",5083-5098,33323-33338
+"NC_005859.1 Enterobacteria phage T5, complete genome","LT960609.1 Escherichia phage SECphi18 genome assembly, complete genome: monopartite",92372-92386,31192-31206
+"NC_005859.1 Enterobacteria phage T5, complete genome","LT960609.1 Escherichia phage SECphi18 genome assembly, complete genome: monopartite",102170-102185,33121-33136
+"NC_005859.1 Enterobacteria phage T5, complete genome","LT960609.1 Escherichia phage SECphi18 genome assembly, complete genome: monopartite",107467-107481,33552-33566
+"NC_001604.1 Enterobacteria phage T7, complete genome","LT960609.1 Escherichia phage SECphi18 genome assembly, complete genome: monopartite",424-438,2802-2816
+"NC_001604.1 Enterobacteria phage T7, complete genome","LT960609.1 Escherichia phage SECphi18 genome assembly, complete genome: monopartite",2998-3012,19212-19226
+"NC_001604.1 Enterobacteria phage T7, complete genome","LT960609.1 Escherichia phage SECphi18 genome assembly, complete genome: monopartite",8006-8020,28460-28474
